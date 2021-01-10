@@ -1,6 +1,3 @@
-# Descrição do Exercício
-
-Repositório da aula de JS ensinada na plataforma Digital Innovation One, cujo desafio era criar um jogo semelhante a um Space-Shooter de resgate.
 
 ## Bootcamp
 
@@ -25,11 +22,6 @@ Repositório da aula de JS ensinada na plataforma Digital Innovation One, cujo d
 * [@font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face)
 * [:root](https://www.w3schools.com/cssref/sel_root.asp)
 * [@keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)
-
-#### Contatos:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jodecir/)](https://www.linkedin.com/in/jodecir/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodecirneto@gmail.com)](mailto:jodecirneto@gmail.com)
 
 #### Creditos de Arte:
 
